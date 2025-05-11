@@ -15,7 +15,6 @@ The project opens doors for artists to create their own unique havens, where the
 * [Testing](#testing)
 * [Author](#author)
 * [Repository](#repository)
-* [Questions](#questions)
 
 ## Demo
 https://mayflyoasis.netlify.app/
@@ -46,12 +45,13 @@ Install mayflyOasis with ```npm install```, ```npm i react-router-dom ```, ```np
 ## Contributors
 [@Hilwana-97](https://github.com/Hilwana-97)
 [@2300032937](https://github.com/2300032937)
+[@navya-sri29](https://github.com/Navya-sri29)
 ## Tests
 n/a
 ## Author
 [@Hilwana-97](https://github.com/Hilwana-97)
 [@2300032937](https://github.com/2300032937)
-
+[@navya-sri29](https://github.com/Navya-sri29)
 
 ## Repository
 https://github.com/2300032937/online-art-gallery.git
