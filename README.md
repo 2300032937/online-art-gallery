@@ -44,19 +44,15 @@ This project can be used The project has been carefully put together to showcase
 ## Installation
 Install mayflyOasis with ```npm install```, ```npm i react-router-dom ```, ```npm install -D tailwindcss postcss autoprefixer```, ```npm install react-icons```, ```npm i react-move```, ``` npm i yup```, ```npm i formik```
 ## Contributors
-[@Jaycossey](https://github.com/Jaycossey)
-[@annierizvi](https://github.com/annierizvi)
-[@arionitas](https://github.com/arionitas)
-[@tigerkaplan](https://github.com/tigerkaplan)
+[@Hilwana-97](https://github.com/Hilwana-97)
+[@2300032937](https://github.com/2300032937)
 ## Tests
 n/a
 ## Author
-[@Jaycossey](https://github.com/Jaycossey)
-[@annierizvi](https://github.com/annierizvi)
-[@arionitas](https://github.com/arionitas)
-[@tigerkaplan](https://github.com/tigerkaplan)
+[@Hilwana-97](https://github.com/Hilwana-97)
+[@2300032937](https://github.com/2300032937)
+
+
 ## Repository
-https://github.com/Jaycossey/mayflyOasis
-## Questions
-Please send your questions [here](mailto:jaycossey@live.com?subject=[GitHub]%20Dev%20Connect) or visit [github/https://github.com/Jaycossey](https://github.com/https://github.com/Jaycossey) for my other projects on GitHub.
-"# online-art-gallery" 
+https://github.com/2300032937/online-art-gallery.git
+ 
