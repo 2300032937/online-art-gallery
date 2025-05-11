@@ -15,6 +15,7 @@ The project opens doors for artists to create their own unique havens, where the
 * [Testing](#testing)
 * [Author](#author)
 * [Repository](#repository)
+* [Linkedin](#linkedin)
 
 ## Demo
 https://mayflyoasis.netlify.app/
@@ -59,3 +60,5 @@ n/a
 ## Repository
 https://github.com/2300032937/online-art-gallery.git
  
+ ## Linkedin
+ https://www.linkedin.com/pulse/online-art-gallery-hilwana-akumalla-qdyac
